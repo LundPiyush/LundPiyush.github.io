@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2161f348.chunk.css",
-    "main.js": "/static/js/main.3fa2d570.chunk.js",
-    "main.js.map": "/static/js/main.3fa2d570.chunk.js.map",
+    "main.css": "/static/css/main.0d484b6e.chunk.css",
+    "main.js": "/static/js/main.c928ff18.chunk.js",
+    "main.js.map": "/static/js/main.c928ff18.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1e453f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1e453f9.js.map",
-    "static/js/2.0bf71869.chunk.js": "/static/js/2.0bf71869.chunk.js",
-    "static/js/2.0bf71869.chunk.js.map": "/static/js/2.0bf71869.chunk.js.map",
+    "static/js/2.5fafd44e.chunk.js": "/static/js/2.5fafd44e.chunk.js",
+    "static/js/2.5fafd44e.chunk.js.map": "/static/js/2.5fafd44e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9dcd2650d978a47061131453dfb8a108.js": "/precache-manifest.9dcd2650d978a47061131453dfb8a108.js",
+    "precache-manifest.595676582c96a92baccca852540a323e.js": "/precache-manifest.595676582c96a92baccca852540a323e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2161f348.chunk.css.map": "/static/css/main.2161f348.chunk.css.map",
+    "static/css/main.0d484b6e.chunk.css.map": "/static/css/main.0d484b6e.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
@@ -21,6 +21,7 @@
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/dell_logo.png": "/static/media/dell_logo.080a988f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.f65ee6f6.png",
     "static/media/education.svg": "/static/media/education.caed892b.svg",
@@ -56,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1e453f9.js",
-    "static/js/2.0bf71869.chunk.js",
-    "static/css/main.2161f348.chunk.css",
-    "static/js/main.3fa2d570.chunk.js"
+    "static/js/2.5fafd44e.chunk.js",
+    "static/css/main.0d484b6e.chunk.css",
+    "static/js/main.c928ff18.chunk.js"
   ]
 }
